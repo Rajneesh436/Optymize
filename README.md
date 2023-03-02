@@ -5,7 +5,7 @@ Run "npm install" on your terminal.<br />
 You are good to go, but make sure NodeJs is already installed on your system <br>
 <h2>File Structure of project </h2>
 <b>config</b> folder has mongoDB connection string <br>
-<b>database_model</b> directory has out both models. <br>
+<b>database_model</b> directory has our both models. <br>
 1. Product model <br>
 2. Category model <br>
 <br>
